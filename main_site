@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Демонстрация лабораторных работ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #1e90ff;
+            font-size: 18px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Демонстрация лабораторных работ</h1>
+    <p>Ниже представлены ссылки на все лабораторные работы:</p>
+    <ul>
+        <li><a href="https://duttinka.github.io/PKG_labs/lab1_RGB_CMYK_HLS/index.html" target="_blank">Лабораторная работа 1</a></li>
+        <li><a href="https://<ваш_пользователь>.github.io/<репозиторий>/Lab2/index.html" target="_blank">Лабораторная работа 2</a></li>
+        <li><a href="https://<ваш_пользователь>.github.io/<репозиторий>/Lab3/index.html" target="_blank">Лабораторная работа 3</a></li>
+        <li><a href="https://<ваш_пользователь>.github.io/<репозиторий>/Lab4/index.html" target="_blank">Лабораторная работа 4</a></li>
+        <li><a href="https://<ваш_пользователь>.github.io/<репозиторий>/Lab5/index.html" target="_blank">Лабораторная работа 5</a></li>
+        <li><a href="https://<ваш_пользователь>.github.io/<репозиторий>/Lab6/index.html" target="_blank">Лабораторная работа 6</a></li>
+    </ul>
+</body>
+</html>
