@@ -116,8 +116,8 @@ button:hover {
     padding: 15px;
     color: #333;
     font-size: 0.95em;
-    flex: 1;
-    overflow-y: auto;
+    overflow: hidden;
+    word-wrap: break-word; 
 }
 
 .scale-control {
