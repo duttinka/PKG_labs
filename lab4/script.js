@@ -130,8 +130,10 @@ function paintPixel(x, y, color = "green") {
 function toOutput(text) {
     const p = document.createElement("p");
     p.textContent = text;
+    p.style.marginBottom = "5px";
     output.appendChild(p);
 }
+
 
 
 function stepAlgorithm() {
